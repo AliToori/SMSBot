@@ -1,0 +1,8 @@
+{
+  "Settings": {
+    "BotToken": "sdfsfsdc",
+    "ChatID": "sdfsdf",
+    "WaitForMsg": 5,
+    "Websites": ["https://www.airbnb.com/"]
+  }
+}
